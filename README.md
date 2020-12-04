@@ -21,6 +21,7 @@ Number of Investors,Investor Names
 - CatBoost
 - Matplotlib
 - Seaborn 
+- XGBOOST
 
 ### Link to Medium Article: 
 https://noah40povis.medium.com/a-quantitative-approach-to-sourcing-dealflows-1bd90571029a
