@@ -23,4 +23,4 @@ Number of Investors,Investor Names
 - Seaborn 
 
 ### Link to Medium Article: 
-https://n-c-povis.medium.com/adding-value-as-data-scientist-utilizing-docker-fastapi-and-aws-beanstalk-to-solve-real-world-eceb6f9ae5c6
+https://noah40povis.medium.com/a-quantitative-approach-to-sourcing-dealflows-1bd90571029a
